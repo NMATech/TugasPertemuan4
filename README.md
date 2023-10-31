@@ -1,7 +1,7 @@
 # TugasPertemuan4
-Tugas Praktikum Pertemuan 4 Mata Kuliah Pemrograman Berbasis Objek
-Nama : Nadindra Maulana Aziz
-Npm  : 2210631170139
+Tugas Praktikum Pertemuan 4 Mata Kuliah Pemrograman Berbasis Objek <br>
+Nama : Nadindra Maulana Aziz <br>
+Npm  : 2210631170139 <br>
 Kelas : 3C - Informatika
 
 # Languange 
